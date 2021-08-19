@@ -1,0 +1,6 @@
+C:\Users\PC\source\repos\BibliotecaClases\BibliotecaNumeroMes\bin\Debug\BibliotecaNumeroMes.dll
+C:\Users\PC\source\repos\BibliotecaClases\BibliotecaNumeroMes\bin\Debug\BibliotecaNumeroMes.pdb
+C:\Users\PC\source\repos\BibliotecaClases\BibliotecaNumeroMes\obj\Debug\BibliotecaNumeroMes.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\BibliotecaClases\BibliotecaNumeroMes\obj\Debug\BibliotecaNumeroMes.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BibliotecaClases\BibliotecaNumeroMes\obj\Debug\BibliotecaNumeroMes.dll
+C:\Users\PC\source\repos\BibliotecaClases\BibliotecaNumeroMes\obj\Debug\BibliotecaNumeroMes.pdb

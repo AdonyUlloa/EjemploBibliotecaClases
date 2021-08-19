@@ -19,6 +19,7 @@ namespace BibliotecaClases
             //Declarar la lista
             SortedList<object, object> srtList = new SortedList<object, object>();
             int i = 0;
+            
             while (i < elements)
             {
                 Console.WriteLine("Escriba el elemento a agregar {0}", i);
